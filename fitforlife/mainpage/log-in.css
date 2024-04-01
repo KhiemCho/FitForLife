@@ -1,0 +1,99 @@
+.body .form{
+    border: 1px solid black;
+    padding: 50px 20px;
+    margin:60px 50px;
+    width:40%;
+    justify-content: space-between;
+    border-radius: 20px;
+}
+.form h3{
+    text-transform: uppercase;
+    text-align: center;
+}
+.form input{
+    margin-top: 20px;
+    width:100%;
+}
+.form input #log-in{
+    text-align: center;
+}
+.form a{
+    text-decoration: none;
+    color:black;
+}
+#btn-log{
+    text-align: center;
+}
+.bx{
+    color:black;
+    padding:2px;
+    border:1px solid black;
+    border-radius: 5px;
+}
+.sign{
+    justify-content: space-between;
+    background-color: #FFF;
+    
+}
+.btn{
+    border:none;
+    border-radius: 5px;
+}
+.btn-log{
+    background-color: #FF0808;
+    text-align: center;
+}
+.btn-log{
+    width:100px;
+}
+.logo{
+    width:40%;
+    height:100%;
+    text-align: center;
+}
+.logo img{
+    padding:30px;
+    border:1px solid black;
+    margin:150px;
+    border-radius: 50px;
+}
+.condition{
+    width:40%;
+    float:left;
+}
+.condition .menu{
+    text-align: left;
+}
+
+#footer{
+    color:black;
+    text-transform: uppercase;
+    align-items: center;
+    text-decoration:none;
+    margin-right:20px;
+}
+.center{
+    width:20%;
+}
+.center a img{
+    align-items: center;
+    border:none;
+    border-radius: 50px;
+}
+.condition .social{
+    float:right;
+}
+.clear { clear: both }
+.social a{
+    color:black;
+    margin-left: 10px;
+    text-align: right;
+}
+
+.footer{
+    height:200px;
+    width:100%;
+    justify-content: center;
+    align-items: center;
+}
+
